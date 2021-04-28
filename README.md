@@ -1,6 +1,5 @@
-# Real-Time-Systems
-# Slack Stealing
-|-------------------------------------|
+#### Real-Time-Systems
+#### Slack Stealing
 
 
 ## Preliminary Sketch
