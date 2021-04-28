@@ -1,5 +1,8 @@
 # Real-Time-Systems
 # Slack Stealing
+|-------------------------------------|
+
+
 ## Preliminary Sketch
 
 ## Part I - Introduction (2 pages)
