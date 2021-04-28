@@ -1,5 +1,5 @@
 **Real-Time-Systems**
-Slack Stealing
+\nSlack Stealing
 
 
 ## Preliminary Sketch
